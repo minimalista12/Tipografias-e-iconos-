@@ -1,0 +1,33 @@
+p {
+	font-sze: smaller;
+}
+
+div {
+	font-size: small;
+	width: 180px;
+	height: 210px;
+	display: inline-block;
+	text-align: center;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.fa {
+	font-size: 75px
+}
+
+img {
+	width: 110px;
+	height: 90px; 
+	margin-left: 15px;
+}
+
+
+div:hover  {
+	color: lightblue;
+	font-size: 20px;
+	display: inline-block;
+	text-align: center;
+	margin-left: 5px;
+	margin-right: 5px;
+}
